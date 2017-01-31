@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77239" started-at="2017-01-31T04:04:09Z" finished-at="2017-01-31T04:05:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77239" started-at="2017-01-31T04:04:09Z" finished-at="2017-01-31T04:05:26Z">
+      <class name="com.parishta.FirstSelenium.TestTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.parishta.FirstSelenium.TestTest@36c88a32]" name="login" duration-ms="77209" started-at="2017-01-30T23:04:09Z" finished-at="2017-01-30T23:05:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.parishta.FirstSelenium.TestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
